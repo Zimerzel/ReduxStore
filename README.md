@@ -1,5 +1,8 @@
 # Redux Store
 
+![shop](https://user-images.githubusercontent.com/79726069/129938697-2de71bfd-ed34-4362-9eed-4bb49d8de97d.PNG)
+
+
 ## User Story
 AS a senior engineer working on an e-commerce platform
 I WANT my platform to use Redux to manage global state instead of the Context API
@@ -48,4 +51,4 @@ Github : https://github.com/Zimerzel
 
 ## Helpful Links
 * Github Repo: https://github.com/Zimerzel/ReduxStore
-* Hekou Deployment: 
+* Hekou Deployment: https://dry-peak-41185.herokuapp.com/
