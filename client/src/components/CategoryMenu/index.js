@@ -5,8 +5,9 @@ import { UPDATE_CATEGORIES, UPDATE_CURRENT_CATEGORY } from '../../utils/actions'
 import { QUERY_CATEGORIES } from '../../utils/queries';
 import { idbPromise } from '../../utils/helpers';
 
+
 function CategoryMenu() {
-  const [state, dispatch] = useStoreContext();
+  // const [state = initalState, dispatch] = useStoreContext();
 
   const { categories } = state;
 
